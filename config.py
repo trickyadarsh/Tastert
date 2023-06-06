@@ -76,14 +76,14 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/aef53cd36a6a7fa989587.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://static.apkdone.me/wp-content/uploads/2020/10/Wynk-Music-poster.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/aef53cd36a6a7fa989587.jpg",
+    "https://www.medianews4u.com/wp-content/uploads/2019/05/Tips.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://graph.org/file/aef53cd36a6a7fa989587.jpg"
+PLAYLIST_IMG_URL = "https://apkdone.com/wp-content/uploads/2020/10/Wynk-Music-poster.jpg"
 
 GLOBAL_IMG_URL = "https://apkdone.com/wp-content/uploads/2020/10/Wynk-Music-poster.jpg"
 
